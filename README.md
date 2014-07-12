@@ -40,7 +40,7 @@ Latest version can always be found at:
 Compilation and Install
 -----------------------
 Needed dependencies:
-* >=gtk+-3.6 (or >=gtk+-2.22 via --without-gtk3)
+* >=gtk+-3.6 (or >=gtk+-2.22 via --without-gtk3) (dev version, e.g. libgtk-3-dev or gtk3-devel depending on the distro)
 * glib-2
 * alsa-lib
 * libX11
